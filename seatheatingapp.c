@@ -1,5 +1,5 @@
 /**
- * @file project_main.c
+ * @file seatheatingapp.c
  * @author Ashrika Mishra
  * @brief Project to Blink an LED at 1000ms ON and 500 ms OFF Interval
  * @version 0.1
