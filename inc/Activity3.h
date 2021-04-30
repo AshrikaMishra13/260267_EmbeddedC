@@ -17,6 +17,6 @@
  * @param temp_value 
  * @return char
  */
-char Activity3(uint16_t temp_value);
+char OutPWM(uint16_t temp_value);
 void InitPWM(void);
 #endif
