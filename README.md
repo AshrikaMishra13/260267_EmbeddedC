@@ -28,4 +28,3 @@ The heat control system is basically used to control the temperature of a car se
 ![Activity2](Simulation/Activity3.png)
 ### Activity 4
 ![Activity2](Simulation/Activity4.png)
-
