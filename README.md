@@ -7,7 +7,7 @@
 ### CI and Code Quality
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-|[![Compile-Linux](https://github.com/AshrikaMishra13/260267_EmbeddedC/actions/workflows/Compile.yml/badge.svg)](https://github.com/AshrikaMishra13/260267_EmbeddedC/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/AshrikaMishra13/260267_EmbeddedC/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/AshrikaMishra13/260267_EmbeddedC/actions/workflows/CodeQuality.yml)
+|[![Compile-Linux](https://github.com/AshrikaMishra13/260267_EmbeddedC/actions/workflows/Compile.yml/badge.svg)](https://github.com/AshrikaMishra13/260267_EmbeddedC/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/AshrikaMishra13/260267_EmbeddedC/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/AshrikaMishra13/260267_EmbeddedC/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9e87412b72a04df7a0873d9c0f835028)](https://www.codacy.com/gh/AshrikaMishra13/260267_EmbeddedC/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AshrikaMishra13/260267_EmbeddedC&amp;utm_campaign=Badge_Grade)|
 
 ### Theory
 The heat control system is basically used to control the temperature of a car seat. When a user or driver of the car gets seated on a car, the button sensor gets activated. After that, the user gets access to turn on the heater. The temperature sensor keeps monitoring the temperature and sends the analog value to the microcontroller. The microcontroller processes the analog input of the temperature sensor and outputs a temperature value through serial communication. All the activities of the control system are done on a microcontroller called Atmega328.
