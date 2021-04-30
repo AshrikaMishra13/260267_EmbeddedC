@@ -17,6 +17,6 @@
  * @param ch 
  * @return uint16_t 
  */
-uint16_t Activity2(uint8_t ch);
+uint16_t ReadADC(uint8_t ch);
 void InitADC();
 #endif
